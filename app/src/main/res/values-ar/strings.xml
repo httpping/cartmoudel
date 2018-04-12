@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_loading">تحميل ...</string>
+    <string name="text_network_require">مطلوب الاتصال بشبكة الانترنت.يرجى التحقق من إعدادات الشبكة.</string>
+    <string name="tips_network_timeout">مهلة الشبكة.</string>
+
+    <string name="msg_request_nothing">أي طلب</string>
+    <string name="tips_failed">فشل</string>
+    <string name="text_list_refresh_failure">فشل التحديث!</string>
+    <string name="loading">تحميل ...</string>
+    <string name="text_and">&#160;  و &#160;</string>
+    <string name="text_network_interruption">انقطاع الشبكة!</string>
+    <string name="list_is_empty_please_refresh">القائمة فارغة!مرر لأسفل لتحديث.</string>
+    <string name="no_data_found">لاتوجد بيانات!</string>
+    <string name="request_failed">فشل الطلب.حاول مرة اخرى.</string>
+    <string name="app_name">فشل الطلب.حاول مرة اخرى.</string>
+
+
+    <string name="cart_other_products_title">فشل الطلب.حاول مرة اخرى.</string>
+
+</resources>

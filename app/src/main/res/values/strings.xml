@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+
+
+    <string name="cart_other_products_title">Other Products</string>
+    <string name="cart_you_may_also_like">You May Also Like</string>
+    <string name="cart_item_title_empty">empty</string>
+    <string name="cat_item_failure_merchandise">Failure Merchandise</string>
+</resources>

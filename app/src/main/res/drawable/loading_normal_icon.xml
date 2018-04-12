@@ -1,0 +1,13 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item  android:id="@+id/shape"
+       android:width="@dimen/dp_200"
+    android:height="@dimen/dp_200">
+        <shape>
+            <solid android:color="@android:color/transparent"/>
+        </shape>
+    </item>
+    <item>
+        <bitmap android:src="@mipmap/ic_loading_normal"
+            android:gravity="center" />
+    </item>
+</layer-list>

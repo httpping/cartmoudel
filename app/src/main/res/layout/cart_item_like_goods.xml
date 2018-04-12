@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/goods_root"
+    android:foreground="?attr/selectableItemBackground"
+    >
+    <com.example.tanping.myapplication.widget.RatioImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_eee"
+        android:src="@mipmap/ic_launcher"
+        android:scaleType="center"
+        app:ratio="0.75"
+     />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/color_333333"
+        android:textSize="@dimen/dp_15"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/dp_12"
+        android:layout_marginBottom="@dimen/dp_4"
+        android:text="US$ 39.50">
+    </TextView>
+
+
+</LinearLayout>
